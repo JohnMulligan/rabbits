@@ -1,7 +1,5 @@
 # Grand Chinchilla
 
-![grand_chinchilla](https://en.wikipedia.org/wiki/Chinchilla#/media/File:Chinchilla_brevicaudata-Verso-PhotoJimenez.jpg)
-
 ## Primary characteristics
 - shorter tail
 - thick thicker neck 
