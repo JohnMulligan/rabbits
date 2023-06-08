@@ -1,6 +1,6 @@
-#Harlequin rabbits
+# Harlequin rabbits
 
-##characteristics
+## Characteristics
 
 * bi-colored
 * originate from France
