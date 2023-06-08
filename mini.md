@@ -1,6 +1,6 @@
 # mini 
 
-big and blod
+big and bloody
 
 ## Primary Characteristics
 * purple
